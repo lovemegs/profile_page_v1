@@ -233,6 +233,11 @@ a.social:hover {
 .hobbies p {
   font-size: 1.5em;
 }
+.card img {
+  max-width: 70%;
+  position: relative;
+  left: 15%;
+}
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
